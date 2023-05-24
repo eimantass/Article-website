@@ -1,0 +1,7 @@
+Projektas Naujienos
+1) Entity Straipsnis (id, pavadinimas ir tekstas)
+2) HomeController (CRUD - Create, Read, Update, Delete)
+3) Atsidarius / patenkame i turini (matomi straipsniu pavadinimai, gali buti surusiuoti)
+4) Turinyje pavadinimai veikia kaip nuorodos
+5) Paspaudus nuoroda, atsidaro straisnis skaitymui
+6) NavigacijoTs nuorodos (pvz back)
