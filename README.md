@@ -1,2 +1,2 @@
 # Article website
- A Spring system, in which you can add, edit, remove articles
+ A Spring/Thymeleaf system, in which you can add, edit, remove articles
